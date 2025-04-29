@@ -135,7 +135,7 @@ As vaccination rates rise, case fatality percentage falls — showing the vaccin
 
 **Azrul Zulhilmi Bin Ahmad Rosli**  
 📘 STQD 6014 Data Science — Semester 1, 2024/2025  
-👩‍🏫 Supervisor: Dr. Nurul Afiqah Burhanuddin
+👩‍🏫 Lecturer: Dr. Nurul Afiqah Burhanuddin
 
 ---
 
