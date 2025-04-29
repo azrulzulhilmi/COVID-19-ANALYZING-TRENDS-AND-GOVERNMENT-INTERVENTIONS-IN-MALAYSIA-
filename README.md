@@ -1,7 +1,9 @@
 
 # 🦠 COVID-19: Analyzing Trends and Government Interventions in Malaysia
 
-![Malaysia COVID-19](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Malaysia.svg/320px-Flag_of_Malaysia.svg.png)
+<p align="center">
+  <img src="images/header.jfif" alt="Malaysia COVID-19" width="30%">
+</p>
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)  
 [![Pandas](https://img.shields.io/badge/Library-pandas-informational)](https://pandas.pydata.org/)  
@@ -74,7 +76,10 @@ Visual insights include:
 
 ### 📌 Government Policy Timeline
 
-> ![Placeholder for policy timeline plot](https://via.placeholder.com/700x300?text=Policy+Timeline+Plot)
+> ![Placeholder for policy timeline plot](images/1.Gov1-4.png)
+> ![Placeholder for policy timeline plot](images/2.Gov5-8.png)
+> ![Placeholder for policy timeline plot](images/3.Gov9-12.png)
+> ![Placeholder for policy timeline plot](images/4.Gov13-15.png)
 
 Visualizes when policies (e.g., school closures, lockdowns) were implemented or lifted.
 
@@ -82,7 +87,7 @@ Visualizes when policies (e.g., school closures, lockdowns) were implemented or 
 
 ### 📌 Trends in Confirmed, Recovered, Tested
 
-> ![Placeholder for trend plot](https://via.placeholder.com/700x300?text=Confirmed+vs+Recovered+Trend)
+> ![Placeholder for trend plot](images/5.Scatter_Plot_of_Date_vs._New_Confirmed,_Deceased,_Recovered,_and.png)
 
 Two major waves correspond to **Delta** (mid-2021) and **Omicron** (early 2022). Recoveries lag behind confirmed cases by a few days.
 
@@ -90,7 +95,7 @@ Two major waves correspond to **Delta** (mid-2021) and **Omicron** (early 2022).
 
 ### 📌 Case Fatality vs. Vaccination & Stringency
 
-> ![Placeholder for normalized trend plot](https://via.placeholder.com/700x300?text=Stringency+%26+Fatality+Trend)
+> ![Placeholder for normalized trend plot](images/9.Positive_Test_Percentage,_Case_Fatality_Ration_and_Stringency_Index.png)
 
 As vaccination rates rise, case fatality percentage falls — showing the vaccine’s role in reducing mortality.
 
@@ -116,8 +121,8 @@ As vaccination rates rise, case fatality percentage falls — showing the vaccin
 
 ## 🧠 Tools & Libraries Used
 
-| Tool            | Purpose                       |
-|-----------------|-------------------------------|
+| Tool            | Purpose                        |
+|-----------------|--------------------------------|
 | `pandas`        | Data manipulation              |
 | `numpy`         | Numerical operations           |
 | `matplotlib`    | Visualization                  |
