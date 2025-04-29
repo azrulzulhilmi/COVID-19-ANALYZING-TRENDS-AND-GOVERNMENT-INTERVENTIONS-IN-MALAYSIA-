@@ -24,18 +24,35 @@ The focus is to:
 
 Key data sources and features:
 
-- 🧬 **COVID-19 Statistics**: New cases, deaths, tests, and vaccinations.
-- 🏛 **Government Responses**: Policies such as lockdowns, facial covering mandates, and travel restrictions.
+- 🧬 **COVID-19 Statistics**: New confirmed case, New deceased, New recovered, New tested, New persons fully vaccinated  
+- 🏛 **Government Responses**: School closing, 
+Workplace closing, 
+Cancel public events, 
+Restrictions on gatherings, 
+Public transport closing, Stay at home requirements, 
+Restrictions on internal movements, 
+International travel control, 
+Income support, 
+Debt relief, 
+Public information campaigns, 
+Testing policy, 
+Contract tracing, 
+Facial coverings, 
+Vaccinations policy, 
+Stringency Index, 
+
 - 📈 **Derived Metrics**: Positive Test % and Case Fatality %
 
 ---
 
 ## 🎯 Objectives
 
-- Examine temporal trends in COVID-19 statistics.
-- Visualize and interpret government interventions.
-- Identify correlations between policy changes and pandemic dynamics.
-- Provide actionable insights for public health response and future preparedness.
+- To examine the trends in daily COVID-19 statistics, including new confirmed 
+cases, recoveries, and deaths, to gain insights into the pandemic's progression 
+over time. 
+- To analyse how government interventions, such as school closures, travel 
+restrictions, and vaccination policies, correlate with changes in COVID-19 
+statistics. 
 
 ---
 
